@@ -1,6 +1,6 @@
 ## Change description
 
-> Description here
+> Description here. For bugs, please describe how and why your changes resolve the issue.
 
 ## Type of change
 
