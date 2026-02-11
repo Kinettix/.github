@@ -1,6 +1,6 @@
 ## Change description
 
-> Description here. For bugs, please describe how and why your changes resolve the issue.
+> Description here. For bugs, please describe how and why your changes resolve the issue. For features, explain your changes and you implemented your solution.
 
 ## Type of change
 
@@ -35,3 +35,5 @@
 - [ ] "Ready for review" label attached and reviewers assigned
 - [ ] Changes have been reviewed by at least one other contributor
 - [ ] Pull request linked to task tracker where applicable
+
+### Screenshots/Videos
